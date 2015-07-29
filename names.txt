@@ -62,7 +62,7 @@
 | 59 | Mohamed Mosaad Mohamed Ahmad Ngla             |      |
 | 60 | Mohamed Nabeel Elsayed Yaqout Mohamed         |      |
 | 61 | Mahmoud Roushdy Mohamed Mohamed Zeedan        |      |
-| 62 | Mahmoud Saleh Mahmoud Abdelgawad Aly          |      |
+| 62 | Mahmoud Saleh Mahmoud Abdelgawad Aly          | Yes  |
 | 63 | Mostafa Gabriel Awad Mohamed                  |      |
 | 64 | Mostafa Hamdi Mahrous Bars                    |      |
 | 65 | Mostafa Abdelaziz Mohamed Abdelaziz           | Yes  |
