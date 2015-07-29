@@ -71,7 +71,7 @@
 | 68 | Mina Makram Louis Eldheeby                    |      |
 | 69 | Nada Salah Mahmoud Osman                      |      |
 | 70 | Nesma Emad Eldeen Ibrahim Nasser              |      |
-| 71 | Norhan Mohamed Ahmed Mohamed Radwan           |      |
+| 71 | Norhan Mohamed Ahmed Mohamed Radwan           | Yes  |
 | 72 | Hashem Hossam Mahmoud Mohamed Mostafa         |      |
 | 73 | Hisham Gud Elkareem Mohamed Raslan            |      |
 | 74 | Waleed Adel Mahmoud Elsayed Aly               |      |
@@ -81,6 +81,6 @@
 +----+-----------------------------------------------+------+
 | 76 | Mohamed Ahmad Solayman Baghdad                |      |
 |    | Salem Mohamed Salem                           |      |
-|    | Norhan Mohamad Ahmad                          |      |
+|    | Norhan Mohamad Ahmad                          | Yes  |
 |    | Mohamed Aly Mohamed Abdelsamea                |      |
 +----+-----------------------------------------------+------+
