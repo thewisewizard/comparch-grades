@@ -65,7 +65,7 @@
 | 62 | Mahmoud Saleh Mahmoud Abdelgawad Aly          |      |
 | 63 | Mostafa Gabriel Awad Mohamed                  |      |
 | 64 | Mostafa Hamdi Mahrous Bars                    |      |
-| 65 | Mostafa Abdelaziz Mohamed Abdelaziz           |      |
+| 65 | Mostafa Abdelaziz Mohamed Abdelaziz           | Yes  |
 | 66 | Maha Ibrahim Mohamed Heikal                   |      |
 | 67 | Mai Ibrahim Hussien Mohamed Aly Eissa         |      |
 | 68 | Mina Makram Louis Eldheeby                    |      |
